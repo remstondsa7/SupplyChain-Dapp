@@ -1,2 +1,2 @@
-Principal G.T. Thampi
-Remston Dsa
+# Principal G.T. Thampi
+# Remston Dsa
